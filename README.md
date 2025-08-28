@@ -4,8 +4,8 @@ You can check the "examples" file to see more images of different types. Some of
 
 <!-- 第一行：强制包含3张图片 -->
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="https://github.com/fsy123-qaq/TEMPEST-images-reconstruction/blob/main/examples/e-commerce%20platform%20interface/image1/12905_0std.png?raw=true" alt="图片1描述" width="300" height="200">
-  <img src="https://github.com/fsy123-qaq/TEMPEST-images-reconstruction/blob/main/examples/e-commerce%20platform%20interface/image1/12905_auto_0std.png?raw=true" alt="图片2描述" width="300" height="200">
+  <img src="https://github.com/fsy123-qaq/TEMPEST-images-reconstruction/blob/main/examples/e-commerce%20platform%20interface/image1/12905_0std.png?raw=true" alt="图片1描述" width="180" height="120">
+  <img src="https://github.com/fsy123-qaq/TEMPEST-images-reconstruction/blob/main/examples/e-commerce%20platform%20interface/image1/12905_auto_0std.png?raw=true" alt="图片2描述" width="180" height="120">
   <img src="https://github.com/fsy123-qaq/TEMPEST-images-reconstruction/blob/main/examples/e-commerce%20platform%20interface/image1/12905_UNet_0std.png?raw=true" alt="图片3描述" width="300" height="200">
 </div>
 
