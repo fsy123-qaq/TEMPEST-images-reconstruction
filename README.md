@@ -1,3 +1,3 @@
 # TEMPEST images reconstruction
 
-You can check the "example" file to see more images of different types.
+You can check the "examples" file to see more images of different types. Some of them will show in here.
